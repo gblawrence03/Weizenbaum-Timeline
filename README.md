@@ -1,4 +1,4 @@
-## Weizenbaum Timeline+
+## Weizenbaum Timeline
 
 This is my completion of the timeline challenge for Microsoft's AI for beginners course. 
 I chose to create a timeline on Joseph Weizenbaum, the creator of one of the first ever chatbots, ELIZA.
